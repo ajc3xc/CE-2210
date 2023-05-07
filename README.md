@@ -2,7 +2,8 @@
 
 # CE-2210
 Repository storing links for projects for Computer Engineering 2210\
-Links originate from circuitverse.org
+Links originate from circuitverse.org\
+Done Fall 2022
 <br/><br/>
 <br/><br/>
 
